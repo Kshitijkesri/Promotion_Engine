@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YXRLfNwnkph4A8g4i4wxQJSfvwxCnrZpUWRwI0ZEk0LdEqmgJmdJQI9ztWuX/1Fb2O0ldaZhmCFFoVKSFQbuqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z003yukx\\source\\repos\\Promotion_Engine\\Promotion_Engine.Message\\Promotion_Engine.Message.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z003yukx\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
